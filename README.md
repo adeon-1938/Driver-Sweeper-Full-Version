@@ -233,3 +233,6 @@ This repository serves as the official landing page for Driver Sweeper. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Driver Sweeper today!**
+
+---
+**Last updated:** 2026-09-07 16:23:55 UTC
